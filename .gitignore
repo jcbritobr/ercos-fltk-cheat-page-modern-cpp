@@ -1,0 +1,8 @@
+toggle_menu_items/Debug/
+change_menu_item/Debug/
+.codelite/
+toggle_menu_items/toggle_menu_items.txt
+change_menu_item/change_menu_item.txt
+tags
+.clang-format
+change_menu_item/compile_flags.txt
