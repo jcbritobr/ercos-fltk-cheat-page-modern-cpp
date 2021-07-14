@@ -1,0 +1,11 @@
+-IC:\Bin\msys64\mingw64\include\c++\10.3.0
+-IC:\Bin\msys64\mingw64\include\c++\10.3.0\x86_64-w64-mingw32
+-IC:\Bin\msys64\mingw64\include\c++\10.3.0\backward
+-IC:\Bin\msys64\mingw64\lib\gcc\x86_64-w64-mingw32\10.3.0\include
+-IC:\Bin\msys64\mingw64\include
+-IC:\Bin\msys64\mingw64\lib\gcc\x86_64-w64-mingw32\10.3.0\include-fixed
+-IC:\Bin\msys64\mingw64\x86_64-w64-mingw32\include
+-IC:\Workspace\cpp\ercos_fltk_cheat_page\toggle_menu_items
+-std=c++17
+-target
+x86_64-w64-mingw32

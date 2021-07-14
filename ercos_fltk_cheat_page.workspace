@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ercos_fltk_cheat_page" Database="" Version="10000">
+  <Project Name="change_menu_item" Path="change_menu_item/change_menu_item.project" Active="No"/>
+  <Project Name="toggle_menu_items" Path="toggle_menu_items/toggle_menu_items.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="change_menu_item" ConfigName="Debug"/>
+      <Project Name="toggle_menu_items" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="change_menu_item" ConfigName="Release"/>
+      <Project Name="toggle_menu_items" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
